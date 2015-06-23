@@ -5,3 +5,4 @@ share/
 pip-selfcheck.json
 .Python
 .ipynb_checkpoints/
+mnist.pkl.gz
